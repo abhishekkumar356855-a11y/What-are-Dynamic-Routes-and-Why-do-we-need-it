@@ -1,0 +1,21 @@
+{
+  "name": "what-are-dynamic-routes-and-why-do-we-need",
+  "version": "1.0.0",
+  "description": "Express app demonstrating dynamic routes and query parameters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "express",
+    "dynamic-routes",
+    "route-parameters",
+    "query-parameters"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
